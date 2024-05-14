@@ -15,5 +15,7 @@ int main()
   {
    cout<<"Bada come la fuma"<<endl; 
   }
-  system("pause");
+
+  //qui c'era l'errore (system)
+  cout<<("pause");
 }
